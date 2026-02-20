@@ -7,4 +7,4 @@ Nombre: Itzel Hernández Hernández
 No. Cuenta: 423049031
 Grupo Laboratorio: 3
 Grupo teoría: 7
-Semmestre 2026-2
+Semestre 2026-2
