@@ -1,0 +1,112 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl 12986_Freshwater_Aquarium_Glass
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.066700 0.211800 0.258800
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.100000
+illum 9
+
+newmtl 12986_Freshwater_Aquarium_Main
+Ns 25.000004
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 12986_Freshwater_Aquarium_Main.jpg
+
+newmtl 12986_Freshwater_Aquarium_Plant1
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.180000 0.180000 0.180000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 12986_Freshwater_Aquarium_Plant1.jpg
+
+newmtl 12986_Freshwater_Aquarium_Plant2
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.180000 0.180000 0.180000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 12986_Freshwater_Aquarium_Plant2.jpg
+
+newmtl 12986_Freshwater_Aquarium_Props1
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ks 0.369000 0.369000 0.369000
+Ke 1.000000 1.000000 1.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 12986_Freshwater_aquarium_Props1_diff.jpg
+
+newmtl 12986_Freshwater_Aquarium_Props2
+Ns 25.000004
+Ka 1.000000 1.000000 1.000000
+Ks 0.441000 0.441000 0.441000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 12986_Freshwater_aquarium_Props2_diff.jpg
+
+newmtl 12986_Freshwater_Aquarium_Props_Plastic
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ks 0.540000 0.540000 0.540000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.250000
+illum 9
+map_Kd 12986_Freshwater_aquarium_Props1_diff.jpg
+
+newmtl 12986_Freshwater_Aquarium_Props_Rubber_01
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ks 0.369000 0.369000 0.369000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.500000
+illum 9
+map_Kd 12986_Freshwater_aquarium_Props1_diff.jpg
+
+newmtl 12986_Freshwater_Aquarium_Props_Rubber_02
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ks 0.369000 0.369000 0.369000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.850000
+illum 9
+map_Kd 12986_Freshwater_aquarium_Props1_diff.jpg
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd vidrio.png
+map_d vidrio.png
+
+newmtl Material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd agua.png
